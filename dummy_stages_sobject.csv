@@ -1,0 +1,12 @@
+MasterLabel,IsWon,IsClosed
+Prospecting,false,false
+Qualification,false,false
+Needs Analysis,false,false
+Value Proposition,false,false
+Id. Decision Makers,false,false
+Perception Analysis,false,false
+Proposal/Price Quote,false,false
+Negotiation/Review,false,false
+Closed Won,true,true
+Closed Lost,false,true
+Disqualified,false,true

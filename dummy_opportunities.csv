@@ -1,0 +1,4 @@
+Id,ARR_Amount__c,StageName,CloseDate,CreatedDate,CurrencyIsoCode,NextStep,Name,ForecastCategory,IsClosed,IsWon
+OPP-001,120000,Closed Won,2023-02-20,2023-01-01T09:00:00,USD,Onboard Customer,Big Deal A,Closed,true,true
+OPP-002,200000,Closed Lost,2023-03-10,2023-03-01T09:00:00,EUR,Review internal process,Lost Deal B,Omitted,true,false
+OPP-003,50000,Prospecting,2023-06-30,2023-05-01T10:00:00,GBP,Initial Call,Open Deal C,Pipeline,false,false
